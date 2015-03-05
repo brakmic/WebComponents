@@ -41,6 +41,12 @@ This project uses <a href="http://hapijs.com/" target="_blank">HapiJS</a> to boo
 
 <img src="http://k04.imgup.net/bar78f4.png"/>
 
+**Created at**
+
+advarics GmbH, Innsbruck (Austria)
+
+Branch Office Bochum (Germany)
+
 **License**
 
 MIT
