@@ -1,7 +1,7 @@
 {
   "name": "tab-charts",
   "version": "0.0.1",
-  "description": "WebComponent Demo with KendoUI, KnockoutJS & Chartjs",
+  "description": "WebComponent Demo with DevExpress, KnockoutJS & Chartjs",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
