@@ -43,9 +43,9 @@ This project uses <a href="http://hapijs.com/" target="_blank">HapiJS</a> to boo
 
 **Created at**
 
-advarics GmbH, Innsbruck (Austria)
+<a href="http://www.advarics.net" target="_blank">advarics GmbH</a>, *Innsbruck* (Austria)
 
-Branch Office Bochum (Germany)
+*Branch Office Bochum* (Germany)
 
 **License**
 
