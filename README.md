@@ -33,6 +33,8 @@ Afterwards use *webpack* or *webpack --watch*.
 This project uses <a href="http://hapijs.com/" target="_blank">HapiJS</a> to boot the demo. Check *index.js* for more information. Routing is done via
 <a href="https://www.npmjs.com/package/hapi-router" target="_blank">hapi-router</a>.
 
+Type *npm start* to start the server.
+
 *The component supports Pie, Line and Bar Charts*
 
 <img src="http://p26.imgup.net/pie4322.png"/>
