@@ -26,7 +26,7 @@ Default module loader is <a href="https://github.com/webpack/webpack" target="_b
 
 To get all needed modules before first build type *npm install*.
 
-After that use *webpack* or *webpack --watch*.
+Afterwards use *webpack* or *webpack --watch*.
 
 **Running the demo**
 
