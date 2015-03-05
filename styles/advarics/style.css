@@ -1,0 +1,10 @@
+.navbar-header {
+        text-align: center;
+        margin: 3px;
+        float: none !important;
+    }
+
+    /* The website name */
+    .navbar-brand {
+        float: none !important;
+    }

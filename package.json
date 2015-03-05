@@ -1,0 +1,36 @@
+{
+  "name": "tab-charts",
+  "version": "0.0.1",
+  "description": "WebComponent Demo with KendoUI, KnockoutJS & Chartjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webcomponents",
+    "kendoui",
+    "chartjs",
+    "knockout"
+  ],
+  "author": "Harris Brakmic",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^8.2.0",
+    "hapi-router": "^2.1.0"
+  },
+  "devDependencies": {
+    "compression-webpack-plugin": "^0.1.2",
+    "css-loader": "^0.9.1",
+    "file-loader": "^0.8.1",
+    "html-loader": "^0.2.3",
+    "image-loader": "0.0.1",
+    "less": "^2.4.0",
+    "less-loader": "^2.0.0",
+    "raw-loader": "^0.5.1",
+    "style-loader": "^0.8.3",
+    "text-loader": "0.0.1",
+    "url-loader": "^0.5.5",
+    "webpack": "^1.7.2"
+  }
+}
