@@ -24,7 +24,7 @@ Or, if you like, you can choose any other path but don't forget to adjust the sc
 
 Default module loader is <a href="https://github.com/webpack/webpack" target="_blank">Webpack</a>. The included *webpack.conf.js* works directly without any adjustment.
 
-To get all needed modules before fuirst build type *npm install*.
+To get all needed modules before first build type *npm install*.
 
 After that use *webpack* or *webpack --watch*.
 
