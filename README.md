@@ -1,6 +1,6 @@
 **WebComponents with DevExpress, ChartJS & KnockoutJS**
 
-We, at <a href="http://www.advarics.net" target="_blank">advarics GmbH</a>, utilize similar techniques to package and deliver our complex software infrastructure.
+At <a href="http://www.advarics.net" target="_blank">advarics GmbH</a> we utilize similar techniques to package and deliver our complex software infrastructure.
 We maintain literally hundreds of different Grids, Tables, Tabs, Report-Views, Charts and so on. Therefore, we not only need a stable infrastructure but also a way to
 appropriately package and reuse them as often as possible.
 
